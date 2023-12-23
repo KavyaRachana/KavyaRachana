@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I am Kavya Rachana Malluvalasa <img src="images/butterfly.gif" width="30%"> <img src="images/dog.gif" width="20%">
+# Hello, I am Kavya <img src="images/butterfly.gif" width="30%"> <img src="images/dog.gif" width="20%">
 
 </div>
 
